@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/switch">
+        <file>switchUI.qml</file>
+    </qresource>
+</RCC>
